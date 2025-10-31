@@ -17,6 +17,10 @@ We then segmented the signals into short time windows centered around when the o
 
 The initial analysis showed that the brains of **Alzheimer's patients exhibited elevated gamma power and altered theta activity**. This strong evidence provided a solid foundation for the next phase, which investigated the relationship between these two waves.
 
+<p align="center">
+  <img src="./Phase_1/tex/figs/plots/2.png" alt="Plot" width="400"/>
+</p>
+
 ---
 
 ### Phase 2: Phase-Amplitude Coupling - PAC
@@ -28,3 +32,7 @@ We quantified the PAC's **strength**, **timing**, and **spatial organization** a
 #### Key Finding
 
 Our most significant discovery is that **this brain communication (PAC) gets weaker as cognitive impairment progresses.** The Alzheimer's subjects showed severely **disrupted temporal and spatial patterns** in their PAC. This highlights PAC as a potentially powerful and sensitive **biomarker for cognitive decline.**
+
+<p align="center">
+  <img src="./Phase_2/tex/figs/10_2.png" alt="Plot" width="600"/>
+</p>
